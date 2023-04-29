@@ -1,2 +1,2 @@
-# Prediccion_ventas_P1
+# Pryct1
 Predicción de ventas alimenticias P1
